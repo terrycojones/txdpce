@@ -8,3 +8,6 @@ deferred errs with a list of the failures.
 The point is that you might have a couple of ways of getting a result (out
 of a cache, off the network) and you want to try them all, taking the
 answer from the first one that figures it out.
+
+See http://blogs.fluidinfo.com/terry/2011/07/12/txdpce-a-twisted-class-for-deferred-parallel-command-execution/
+for more of an explanation.
