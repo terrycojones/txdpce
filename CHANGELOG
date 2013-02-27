@@ -1,0 +1,13 @@
+Version 0.1.2 notes (July 12, 2011)
+----------------------------------
+
+Added removal of txdpce.egg-info to make clean target.
+
+Version 0.1.1 notes (July 12, 2011)
+----------------------------------
+
+Added txdpce directory, moved code to txdpce/dpce.py and tests to
+txdpce/test.
+
+
+
